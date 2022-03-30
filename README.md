@@ -1,7 +1,4 @@
 #<strong>Yolov3_video.avi with raspberrypi</strong>
-Hi my name is Tony.
-I will be an AI Engineer ! 
-contact:jongvin01@naver.com
 
 ##Build a development environment
 -pyhton 3.7.7
